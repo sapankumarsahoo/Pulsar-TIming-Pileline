@@ -1,0 +1,25 @@
+# DATA FILE HEADER #
+Site            : GMRT
+Observer        : GHRSS
+Proposal        : 25_048
+Array Mode      : IA
+Observing Mode  : Search
+Date            : 18/11/2016 
+Num Antennas    : 13
+Antenna List    : C00 C01 C03 C04 C05 C06 C08 C09 C10 C11 C12 C13 C14
+Num Channels    : 2048 
+Channel width   : -0.097656
+Frequency Ch.1  : 300.000000
+Sampling Time   : 40.96
+Num bits/sample : 8
+Data Format     : integer binary, little endian
+Polarizations   : Total I
+MJD             : 58469 
+UTC             : 22:37:51.552663000    
+Source          : HR_0844-44 
+Coordinates     : 16:19:32.32, -39:20:00.0 
+Coordinate Sys  : J2000
+Drift Rate      : 0.0, 0.0
+Obs. Length     : 9830400
+Bad Channels    : 2:1-400,1124-2048
+Bit shift value : 0
